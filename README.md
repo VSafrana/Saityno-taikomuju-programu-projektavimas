@@ -1,15 +1,15 @@
 # Saityno-taikomuju-programu-projektavimas
 
 
-Projekto pavadinimas
+# Projekto pavadinimas
 Projektas vadinasi „Kolekcionierius“. Pavadinimas pasirinktas pagal tikslinę auditoriją, kadangi kuriama internetinė aplikacija yra skirta būtent kolekcionieriams.
 
 
-Projekto tikslas
+# Projekto tikslas
 Sukurti kolekcionieriams skirtą svetainę, kurioje jie dalyvaudami ir kurdami aukcionus galėtų pirkti bei parduoti kolekcinius daiktus.
 
 
-Sistemos aprašymas
+# Sistemos aprašymas
 Sistema daugiausiai yra skiriama kolekcionieriams, kurie nori pelningai parduoti turimą kolekcinį inventorių ir įsigyti juos dominančius daiktus. Registruoti vartotojai norintys parduoti savo vertingus kolekcinius daiktus gali juos įkelti į sistemą, o paskui įdėti į aukcioną. Aukciono metu kiti vartotojai siūlo kuo didesnę kainą, o pasibaigus aukciono sukūrėjo nustatytui terminui (sistema automatiškai nustato savaitę) vartotojas pasiūlęs didžiausią kainą įsigyja numatytą daiktą. Jei registruotas vartotojas žiūrėdamas įkeltas kitų kolekcionierių prekes randa, kas jam patinka, tai gali pažymėti, kad prekė jį domina, tuomet pardavėjas galės atkreipti dėmesį ir paskelbti aukcioną dėl šios prekės. Neprisiregistravęs vartotojas gali tik peržiūrėti svetainę ir prisijungti prie jos.
 	
 Sistemoje yra trijų tipų vartotojai: svečias, prisiregistravęs vartotojas ir administratorius.
@@ -17,7 +17,7 @@ Sistemoje yra trijų tipų vartotojai: svečias, prisiregistravęs vartotojas ir
 
 
 
-Fukciniai reikalavimai
+# Fukciniai reikalavimai
 	
 Svečio funckciniai reikalavimai:
 1.	peržiūrėti svetainę;
@@ -50,8 +50,8 @@ Registruoto vartotojo (pirkėjo, pardavėjo) funkciniai reikalavimai:
 18.	peržiūrėti savo prekes, kurios domina kitus kolekcionierius.
 
 
-Technologijos
+# Technologijos
 Projektui kurti buvo pasirinktos šios technologijos:
-•	Kliento pusė (ang. Front-End) – React.js; 
-•	Serverio pusė (angl. Back-End) – PHP Laravel; 
-•	Duomenų bazė – MySQL.
+1. Kliento pusė (ang. Front-End) – React.js;
+2. Serverio pusė (angl. Back-End) – PHP Laravel; 
+3. Duomenų bazė – MySQL.
