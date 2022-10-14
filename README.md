@@ -53,5 +53,5 @@ Registruoto vartotojo (pirkėjo, pardavėjo) funkciniai reikalavimai:
 # Technologijos
 Projektui kurti buvo pasirinktos šios technologijos:
 1. Kliento pusė (ang. Front-End) – React.js;
-2. Serverio pusė (angl. Back-End) – PHP Laravel; 
+2. Serverio pusė (angl. Back-End) – .NET Core; 
 3. Duomenų bazė – MySQL.
